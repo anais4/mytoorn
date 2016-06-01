@@ -49,3 +49,8 @@ img{
   color: #4a6ab8;
   font-family: "Arial Unicode MS";
 }
+
+#map{
+  width: 100%;
+  height: 100%;
+}
